@@ -1,0 +1,1 @@
+This repositorie to do python data science course
