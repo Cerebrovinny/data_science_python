@@ -1,1 +1,6 @@
-This repositorie to do python data science course
+# Data Science Course with Python
+
+## This course covers topics like:
+- Samples
+- 
+- 
