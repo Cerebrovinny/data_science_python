@@ -1,4 +1,8 @@
-weight_user = input('Please enter you weight in pounds ' )
-kilograms = int(weight_user)/2.205
-kilograms = str(kilograms)
-print('Your weight in kilograms is ' + kilograms)
+weight_user = int(input('Please enter you weight ' ))
+unit = input('(L)bs or (K)g: ')
+if unit.upper() == "L":
+    converted = weight_user * 0.45
+    print(f"You are {converted} kilos")
+else:
+    converted = weight_user / 0.45
+    print(f"You are {converted} pounds")
