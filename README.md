@@ -1,4 +1,4 @@
-# Data Science Course with Python
+# Data Science with Python
 
 ## This course covers topics like:
 - Samples
